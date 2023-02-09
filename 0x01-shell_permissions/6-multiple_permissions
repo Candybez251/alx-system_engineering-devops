@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod user:group hello
+sudo chmod user:group hello
